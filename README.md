@@ -4,4 +4,4 @@ A simple Vagrantfile which builds a CentOS 7 based PXE Server and configures it 
 
 #### Usage
 
-To use, generate an SSH keypair and modify the path to the private key file. Also modify the public_network IP for the pxe VM to match your local network.
+To use, generate an SSH keypair and modify the paths in Vagrantfile to the private and public key files. Also modify the public_network IP for the pxe VM to match your local network.
